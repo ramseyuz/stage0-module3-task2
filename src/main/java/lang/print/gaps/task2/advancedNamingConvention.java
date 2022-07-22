@@ -10,7 +10,7 @@ public class advancedNamingConvention {
         //some code
     }
 
-    void callByNumber(int Number) {
+    void callbynumber(int number) {
         phoneNumber=99999;
     }
 }
