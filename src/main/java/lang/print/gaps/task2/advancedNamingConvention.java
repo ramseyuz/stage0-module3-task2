@@ -11,6 +11,6 @@ public class advancedNamingConvention {
     }
 
     void callByNumber(int Number) {
-        //some code
+        phoneNumber=99999;
     }
 }
